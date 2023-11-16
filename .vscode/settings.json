@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.configureArgs": [
+        "-DUSE_STATIC_LIBS=OFF"
+    ],
+}
